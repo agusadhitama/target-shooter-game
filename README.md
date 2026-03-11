@@ -10,7 +10,7 @@ Players must aim and shoot targets as quickly and accurately as possible to achi
 
 Play the game here:
 
-👉 https://agusadhitama.github.io/game-menembak/
+👉 https://agusadhitama.github.io/target-shooter-game/
 
 ---
 
